@@ -1,0 +1,104 @@
+Testing Records
+
+Basic
+Rit.cpp : https://codeforces.com/gym/102091/submission/217216305
+IncStack.cpp : 
+default.cpp : 
+Beat Match.cpp : 
+Int.cpp : http://acm.csie.org/ntujudge/view_code.php?id=144252
+SqRootDecmop.cpp : https://cses.fi/problemset/result/4552375/
+CDQ.cpp : https://qoj.ac/submission/175445
+
+Flow
+Dinic.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/466249/submission/217879492
+MinCostFlow.cpp : https://codeforces.com/gym/103328/submission/221940653
+KhunMatching.cpp : 
+BipartiteMatching.cpp : http://acm.csie.org/ntujudge/view_code.php?id=139622
+WeightedBepartiteMatch.cpp : https://www.acmicpc.net/source/67515483
+MaximumGeneralMatching.cpp : https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/history.php?a=29245
+Model.txt
+
+
+Data Structure
+DSU.cpp : 
+SegTree.cpp : https://codeforces.com/gym/104466/submission/215118736
+LazySegTree.cpp : https://codeforces.com/gym/103990/submission/214551325
+Treap.cpp : 
+BinarySearchBIT.cpp : https://codeforces.com/gym/102091/submission/217216305
+LiChaoTree.cpp : 
+Persistent data structure.cpp : 
+Persistent data structure on tree.cpp : 
+DynamicPointSGT.cpp : 
+LB.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/468113/submission/219008002
+Fenwik2DSum.cpp : 
+
+
+Graph
+Domination.txt
+Tarjan_eBCC.cpp : http://acm.csie.org/ntujudge/view_code.php?id=146905
+Tarjan_vBCC.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/466249/submission/217538181
+TarjanSCC.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/468113/submission/219113022
+2SAT.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/468113/submission/219113022
+LCA.cpp : https://codeforces.com/contest/1878/submission/225735088
+RST.cpp : 
+HeavyLightDecomp.cpp : https://cses.fi/problemset/result/4526488/
+CentroidDecmop.cpp : https://cses.fi/problemset/result/7135163/
+DMST.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/466249/submission/217810899
+DominatorTree.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/468113/submission/219010473
+StoerWagnerMinimumCut.cpp : 
+MaximumClique.cpp : http://acm.csie.org/ntujudge/view_code.php?id=145128&contest_id=646
+Vizing.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/468113/submission/219046975
+MoOnTree.cpp : 
+
+String
+KMP.cpp : https://www.acmicpc.net/source/67485164
+Z.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/466249/submission/217491002
+acam.cpp : http://acm.csie.org/ntujudge/view_code.php?id=146898&contest_id=649
+SAM.cpp : 
+SuffixArray.cpp : 
+LeastRotation.cpp : 
+Manacher.cpp : https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/history.php?a=36150
+
+
+Math
+CompPrimes.cpp : https://codeforces.com/contest/1878/submission/225344387
+ExtendGcd.cpp : 
+FloorSum.cpp : http://acm.csie.org/ntujudge/view_code.php?id=146465&contest_id=648
+PrimitiveRoot.cpp : https://codeforces.com/gym/103328/submission/221936100
+DiscreteLog.cpp : http://acm.csie.org/ntujudge/view_code.php?id=146466&contest_id=648
+DiscreteRoot.cpp : 
+FactMod.cpp : 
+MillerRabin.cpp : http://acm.csie.org/ntujudge/view_code.php?id=146473&contest_id=648
+PollardRho.cpp : http://acm.csie.org/ntujudge/view_code.php?id=146473&contest_id=648
+Euler.cpp : 
+Mu.cpp : 
+LinearEquation.cpp : 
+Inverse.cpp : 
+NTT.cpp : https://codeforces.com/gym/103328/submission/221904826
+NTTprimes.tex
+FFT.cpp : http://acm.csie.org/ntujudge/view_code.php?id=146114
+SG.cpp 
+theorem.cpp
+CRT.cpp :  
+
+Geometry
+Basic.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/466249/submission/217876921
+HalfPlaneIntersect.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/466249/submission/217876921
+Slope.cpp : 
+Convex_order.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/466249/submission/217876921
+Convex.cpp : 
+Area.cpp : 
+circle.cpp : 
+circleOrArea.cpp : 
+minDistOfTwoConvex.cpp : 
+ClosestPair.cpp :
+Minkowski.cpp : https://codeforces.com/group/GrPGi7AxxP/contest/466249/submission/217876921
+pip.cpp : 
+
+Dyanmic Programming
+DP-optimize.cpp : 
+Dp1D1D.cpp : 
+DynamicConvexHull.cpp : https://atcoder.jp/contests/dp/submissions/44593539
+convex1d1d.cpp : 
+convexHullMonotone.cpp : 
+convexHullNonMonotone.cpp : 
